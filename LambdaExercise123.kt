@@ -17,7 +17,6 @@ fun main(){
     println(resultOfDivideTreasure)
 
 
-    //4
 
 
 
